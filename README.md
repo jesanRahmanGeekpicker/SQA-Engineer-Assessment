@@ -1,4 +1,4 @@
-# QA Engineer Assessment
+# SQA Engineer Assessment
 <a name="readme-top"></a>
 Please read all the instructions below to prepare for the assessment.
 ## UI Automation
