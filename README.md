@@ -2,7 +2,7 @@
 <a name="readme-top"></a>
 Please read all the instructions below to prepare for the assessment.
 ## UI Automation
-* Prerequisite: Register as a user on the [website](https://juice-shop.herokuapp.com/#/).
+* Prerequisite: Register as a user on the [OWASP Juice Shop](https://juice-shop.herokuapp.com/#/).
 
 ### Test scenario 01:
 1. Login with the user that you just registered. Assert the user is registered with the same email address.
